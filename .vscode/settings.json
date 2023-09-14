@@ -1,0 +1,10 @@
+{
+  "background.fullscreen": {
+      "images": ["https://genk.mediacdn.vn/2019/7/2/photo-1-1562059393505150599446.jpg"],
+      "opacity": 0.91,
+      "size": "cover",
+      "position": "center",
+      "interval": 0
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
